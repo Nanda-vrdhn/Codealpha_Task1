@@ -1,10 +1,13 @@
 
 🌐 Nexus Translate 
+
 Nexus Translate is  designed to reimagine translation tools with a premium, modern interface.
 It’s not just about converting text — it’s about creating an experience where languages flow seamlessly through a glassmorphic design, complete with smooth animations and native text‑to‑speech.
+
 For live : aimusiccodealpha.netlify.app
 
 ✨ Features
+
 Premium UI/UX with glassmorphism and animated gradient orbs
 
 Global and Indian regional language support (Hindi, Bengali, Telugu, Marathi, Tamil, and more)
@@ -20,6 +23,7 @@ One‑click clipboard integration with toast notifications
 Fully responsive design across mobile and desktop
 
 📁 Project Structure
+
 index.html – Layout and language configurations
 
 styles.css – Glassmorphic layers, animations, and responsive design
@@ -27,6 +31,7 @@ styles.css – Glassmorphic layers, animations, and responsive design
 script.js – Workflow logic, language swapping, clipboard, and text‑to‑speech
 
 🚀 Experience
+
 Open the live demo link in any modern browser and explore:
 
 Type text in your chosen language
