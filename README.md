@@ -2,6 +2,7 @@
 🌐 Nexus Translate 
 Nexus Translate is  designed to reimagine translation tools with a premium, modern interface.
 It’s not just about converting text — it’s about creating an experience where languages flow seamlessly through a glassmorphic design, complete with smooth animations and native text‑to‑speech.
+For live : aimusiccodealpha.netlify.app
 
 ✨ Features
 Premium UI/UX with glassmorphism and animated gradient orbs
