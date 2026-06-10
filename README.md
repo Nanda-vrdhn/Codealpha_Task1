@@ -1,6 +1,6 @@
 
-🌐 Nexus Translate – Internship Showcase
-Nexus Translate is my internship project, designed to reimagine translation tools with a premium, modern interface.
+🌐 Nexus Translate 
+Nexus Translate is  designed to reimagine translation tools with a premium, modern interface.
 It’s not just about converting text — it’s about creating an experience where languages flow seamlessly through a glassmorphic design, complete with smooth animations and native text‑to‑speech.
 
 ✨ Features
